@@ -4,7 +4,8 @@ metadata:
   name: AI-For-Beginners
   description: A course made by microsoft about the Artificial Intelligence
   # Example for optional annotations
-  # annotations:
+  annotations:
+    github.com/project-slug: AI-For-Beginners
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
